@@ -10,7 +10,7 @@
 		- How many layers and escalation you have to make safety net for your escalation if something going wrong.
 	- How we calibrate it?
 		- I think we want get normal distribution in larger sample with peak at 80 to eliminate 0-20 if possible.
-			- ![](oncall-health-index.png)
+			- ![](./oncall_health_index.png)
 		- We need discuss how assume what is 0 number and what is 100 number.
 		- We can make some arbitrary equation and in the end just invert value to get percents but I want see something in my model behind that number.
 		- What is 100?
