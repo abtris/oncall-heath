@@ -1,4 +1,6 @@
-# Oncall Health Index
+# Oncall Health Index 
+
+## Status: Draft
 
 - OnCall Health index is number 0 to 100 that covers how team doing on-call. Number should help leadership to prevent burnout in teams.
 	- We can calculate using this metrics:
@@ -16,4 +18,4 @@
 		- What is 100?
 		- What is 50?
 		- What is 0?
-	- Let's open discussion about it, I want hear your opinions. Please ping me in Gophers slack or write me email.		
+	- Let's open discussion about it, I want hear your opinions. Please create [github issue](https://github.com/abtris/oncall-heath/issues) or [write me email](mailto:ladislav@prskavec.net?subject=oncall-health).		
